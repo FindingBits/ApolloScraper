@@ -10,7 +10,7 @@ I wanted a car but I got tired of searching listings, so I made my own bot to se
   * Golf IV
   * A3 8L
   * Octavia I
-  * Passat I
+  * Passat II
 * Powertrain
   * VW 1.6 SR Gasoline Engine (Equips all)
   * VW 1.8 Turbo / 1.8 NA Gasoline Engines (Equips all)
