@@ -6,11 +6,11 @@ I wanted a car but I got tired of searching listings, so I made my own bot to se
 ## My Search Options
 * Volkswagen, Audi, Skoda and Seat
   * Ibiza 6K2
-  * Leon 1M
+  * Leon I
   * Golf IV
   * A3 8L
-  * Octavia
-  * Passat
+  * Octavia I
+  * Passat I
 * Powertrain
   * VW 1.6 SR Gasoline Engine (Equips all)
   * VW 1.8 Turbo / 1.8 NA Gasoline Engines (Equips all)
