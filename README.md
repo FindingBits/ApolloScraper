@@ -17,3 +17,4 @@ I wanted a car but I got tired of searching listings, so I made my own bot to se
   * 5 Speed Gearbox / Automatic 4 Speed (rare)
 * Can have GPL (green sticker)
 * In the Porto (District) area
+* Limit of 2000€
