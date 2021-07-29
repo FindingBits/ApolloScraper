@@ -23,8 +23,6 @@ def organize(response,brand):
                     link_container.append(a['href'])
                     print("Found: "+a['href'])
 
-# ate 2000€ / arcozelo e arredores ate +50km / motor 1.6
-# combustivel (todos) pois pode ser adicionado anuncio como GPL e Gasolina
 print("Options: 1- OLX / 2- CustoJusto\nOption:")
 x = input()
 if(x=="1"):
