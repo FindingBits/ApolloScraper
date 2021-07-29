@@ -19,7 +19,7 @@ def organize(response,brand):
     for a in html_soup.find_all('a', href=True):
         if(("anuncio" in a['href']) or ("carros-usados" in a['href'])):
             if(a['href'] not in link_container):
-                if(("1-6" in a['href'])):
+                if(("1-6" in a['href']) or ("1-8" in a['href'])):
                     link_container.append(a['href'])
                     print("Found: "+a['href'])
 
