@@ -19,6 +19,6 @@ I wanted a car but I got tired of searching listings, so I made my own bot to se
 * In the Porto (District) area
 * Limit of 2000€
 
-## Disclaimer!
+## Disclaimer
 #### This Scraper causes no harm as it's only purpose is to get the links for me
 * I'm not responsible for bad-intentioned adaptations of this Scraper
