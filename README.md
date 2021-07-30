@@ -20,5 +20,5 @@ I wanted a car but I got tired of searching listings, so I made my own bot to se
 * Limit of 2000€
 
 
-* This Scraper causes no harm as it's only purpose is to get the links for me
-  * I'm not responsible for bad-intentioned adaptations of this Scraper
+#### This Scraper causes no harm as it's only purpose is to get the links for me
+* I'm not responsible for bad-intentioned adaptations of this Scraper
