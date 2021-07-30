@@ -1,6 +1,6 @@
 # ApolloScraper
 
-## Works with OLX and CustoJusto
+## Works with web-based trading sites
 I wanted a car but I got tired of searching listings, so I made my own bot to search for me the initial page.
 
 ## My Search Options
