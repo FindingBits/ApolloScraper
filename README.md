@@ -1,8 +1,8 @@
 # ApolloScraper
 
 ## Works with web-based trading sites
-I wanted a car but I got tired of searching listings, so I made my own bot to search for me the initial page.
-As I'm from Portugal, I'll be searching on OLX and CustoJusto.
+* I wanted a car but I got tired of searching listings, so I made my own bot to search for me the initial page.
+* As I'm from Portugal, I'll be searching on OLX and CustoJusto.
 
 ## My Search Options
 * Volkswagen, Audi, Skoda and Seat
