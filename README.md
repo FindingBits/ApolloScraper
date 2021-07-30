@@ -1,7 +1,7 @@
 # ApolloScraper
 
 ## Works with OLX and CustoJusto
-I wanted a car but I got tired of searching listings, so I made my own bot to search the front page of each website from the initial page (most recent one).
+I wanted a car but I got tired of searching listings, so I made my own bot to search for me the initial page (most recent one).
 
 ## My Search Options
 * Volkswagen, Audi, Skoda and Seat
